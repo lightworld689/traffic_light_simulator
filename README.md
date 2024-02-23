@@ -1,2 +1,2 @@
-# traffic_emu
+# traffic_light_simulator
 方便我弟过家家做的红绿灯
